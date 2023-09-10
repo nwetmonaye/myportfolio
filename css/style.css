@@ -580,12 +580,12 @@ section {
     line-height: 0;
   }
   .about .image {
-    background: url("/images/nma.jpg") center center no-repeat;
+    background: url("../images/nma.jpg") center center no-repeat;
     background-size: cover;
     min-height: 600px;
   }
   .about .skillimage {
-    background: url("/images/skill2.avif") center center no-repeat;
+    background: url("../images/skill2.avif") center center no-repeat;
     background-size: cover;
     min-height: 500px;
   }
